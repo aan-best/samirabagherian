@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Clean sparkle stars">
+  <g fill="#FFFFFF">
+    <!-- large star -->
+    <path d="M210 140 Q236 264 360 290 Q236 316 210 440 Q184 316 60 290 Q184 264 210 140 Z"/>
+    <!-- medium star -->
+    <path d="M385 60 Q399 131 470 145 Q399 159 385 230 Q371 159 300 145 Q371 131 385 60 Z"/>
+    <!-- small star -->
+    <path d="M400 324 Q408 364 448 372 Q408 380 400 420 Q392 380 352 372 Q392 364 400 324 Z"/>
+  </g>
+</svg>

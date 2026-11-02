@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Permanent makeup machine in hand">
+  <defs>
+    <mask id="pmu-icon-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+      <rect width="512" height="512" fill="#000"/>
+
+      <!-- ink drop -->
+      <path d="M92 394 C92 394 76 414 76 424 a16 16 0 0 0 32 0 C108 414 92 394 92 394 Z" fill="#fff"/>
+
+      <g transform="rotate(-40 256 256)">
+        <!-- needle -->
+        <line x1="70" y1="256" x2="118" y2="256" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+        <!-- cone -->
+        <polygon points="116,251 172,239 172,273 116,261" fill="#fff" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+        <!-- grip -->
+        <rect x="180" y="232" width="150" height="48" rx="12" fill="#fff"/>
+        <!-- grip ribs -->
+        <line x1="193" y1="232" x2="193" y2="280" stroke="#000" stroke-width="4"/>
+        <line x1="205" y1="232" x2="205" y2="280" stroke="#000" stroke-width="4"/>
+
+        <!-- palm (back of hand) -->
+        <rect x="296" y="206" width="100" height="104" rx="40" fill="#000" stroke="#000" stroke-width="12"/>
+        <rect x="296" y="206" width="100" height="104" rx="40" fill="#fff"/>
+
+        <!-- sleeve / wrist -->
+        <rect x="406" y="214" width="56" height="92" rx="14" fill="#fff"/>
+
+        <!-- fingers wrapping the grip -->
+        <rect x="288" y="206" width="28" height="98" rx="14" fill="#000" stroke="#000" stroke-width="10"/>
+        <rect x="288" y="206" width="28" height="98" rx="14" fill="#fff"/>
+
+        <rect x="260" y="208" width="28" height="100" rx="14" fill="#000" stroke="#000" stroke-width="10"/>
+        <rect x="260" y="208" width="28" height="100" rx="14" fill="#fff"/>
+
+        <rect x="232" y="212" width="28" height="94" rx="14" fill="#000" stroke="#000" stroke-width="10"/>
+        <rect x="232" y="212" width="28" height="94" rx="14" fill="#fff"/>
+
+        <!-- thumb pinching the pen -->
+        <line x1="326" y1="208" x2="218" y2="228" stroke="#000" stroke-width="38" stroke-linecap="round"/>
+        <line x1="326" y1="208" x2="218" y2="228" stroke="#fff" stroke-width="28" stroke-linecap="round"/>
+      </g>
+    </mask>
+  </defs>
+
+  <rect width="512" height="512" fill="#FFFFFF" mask="url(#pmu-icon-mask)"/>
+</svg>
